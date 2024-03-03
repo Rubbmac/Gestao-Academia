@@ -1,0 +1,7 @@
+Id , Nome , Morada , Nr Telemovel , Salario , Início Do Contrato , Fim Do Contrato , Data Do Registo Criminal , Isencao de horario, Bonus , Carro , Funcao
+2,Maria Santos,Avenida K Lisboa,910123456 ,15 , 31/05/2023, 23/04/2024,23/11/2023,False,1000,False, Diretor
+3,Pedro Almeida,Rua L Porto,927987654 ,70 , 30/04/2023, 23/04/2024,24/10/2023,True,1000,True, Diretor
+4,Sara Oliveira,Avenida M Coimbra,932555555 ,30 , 31/03/2023, 23/02/2024,31/12/2023,True,1500,False, Diretor
+5,Daniel Pereira,Rua N Braga,961111111 ,80 , 28/02/2023, 23/07/2024,28/11/2023,False,1200,False, Diretor
+6,Antonio Costa,Avenida O Faro,965888888 ,40 , 31/01/2023, 23/05/2024,30/11/2023,False,1000000000,True, Diretor
+16,Bruno,asd,223123123 ,10 , 01/02/2024, 07/03/2024,09/02/2024,True,1,False, Diretor

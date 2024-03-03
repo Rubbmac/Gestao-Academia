@@ -1,0 +1,329 @@
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.SuggestedBindingRedirects.cache
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+E:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+D:\5118 - C Sharp\Forms - Avaliação\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\Utilizador\Desktop\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\bruno\OneDrive - ATEC - Academia de Formação\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\t0125292\Desktop\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+D:\5118 - C Sharp\Forms - Avaliação\Bruno\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\Utilizador\Desktop\Ruben\Ruben\projPROGRAMAÇAO (1)\projPROGRAMAÇAO (1)\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\Utilizador\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoveFuncionario.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoveFuncionario.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\t0125292\Desktop\Bruno\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.SuggestedBindingRedirects.cache
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoveFuncionario.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\t0125292\Desktop\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoveFuncionario.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizarContacto.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddUser.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlterarPassword.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.GerirUsers.resources
+C:\Users\rubma\Downloads\Bruno V2 1\Bruno V2\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoverUser.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddUser.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlterarPassword.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizarContacto.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.GerirUsers.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoveFuncionario.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoverUser.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+C:\Users\rubma\Downloads\projPROGRAMAÇAO\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe.config
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.exe
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\bin\Debug\A ADOSMELHORES.pdb
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.AssemblyReference.cache
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddCoordenador.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddDiretor.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddFormador.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddSecretaria.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AddUser.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlocarFormador.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AlterarPassword.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaMorada.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizarContacto.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.AtualizaRegCrim.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.CalcularSalForm.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.GerirUsers.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Inicio.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Menu.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdd.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAdmin.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuAtualizaDados.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.MenuGerir.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.Properties.Resources.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoveFuncionario.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RemoverUser.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A_ADOSMELHORES.RenovarContrato.resources
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.GenerateResource.cache
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.csproj.CoreCompileInputs.cache
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.exe
+D:\Modulos completos\5118 - C Sharp\Forms - Avaliação\Avaliacao Forms - Bruno_Marcelo_Ruben\A ADOSMELHORES\obj\Debug\A ADOSMELHORES.pdb

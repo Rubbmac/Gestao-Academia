@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6D87C88-B4F7-4D87-95BB-55F9146D6D9C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>A_ADOSMELHORES</RootNamespace>
+    <AssemblyName>A ADOSMELHORES</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddCoordenador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCoordenador.Designer.cs">
+      <DependentUpon>AddCoordenador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddDiretor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDiretor.Designer.cs">
+      <DependentUpon>AddDiretor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddFormador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddFormador.Designer.cs">
+      <DependentUpon>AddFormador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSecretaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSecretaria.Designer.cs">
+      <DependentUpon>AddSecretaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlocarFormador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlocarFormador.Designer.cs">
+      <DependentUpon>AlocarFormador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AlterarPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarPassword.Designer.cs">
+      <DependentUpon>AlterarPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AtualizaMorada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AtualizaMorada.Designer.cs">
+      <DependentUpon>AtualizaMorada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AtualizarContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AtualizarContacto.Designer.cs">
+      <DependentUpon>AtualizarContacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AtualizaRegCrim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AtualizaRegCrim.Designer.cs">
+      <DependentUpon>AtualizaRegCrim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalcularSalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalcularSalForm.Designer.cs">
+      <DependentUpon>CalcularSalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Coordenadores.cs" />
+    <Compile Include="Diretores.cs" />
+    <Compile Include="Empresa.cs" />
+    <Compile Include="GerirUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GerirUsers.Designer.cs">
+      <DependentUpon>GerirUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveFuncionario.Designer.cs">
+      <DependentUpon>RemoveFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoverUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoverUser.Designer.cs">
+      <DependentUpon>RemoverUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RenovarContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RenovarContrato.Designer.cs">
+      <DependentUpon>RenovarContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formadores.cs" />
+    <Compile Include="Funcionarios.cs" />
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdd.Designer.cs">
+      <DependentUpon>MenuAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAdmin.Designer.cs">
+      <DependentUpon>MenuAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuAtualizaDados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuAtualizaDados.Designer.cs">
+      <DependentUpon>MenuAtualizaDados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuGerir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuGerir.Designer.cs">
+      <DependentUpon>MenuGerir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Secretaria.cs" />
+    <Compile Include="Users.cs" />
+    <EmbeddedResource Include="AddCoordenador.resx">
+      <DependentUpon>AddCoordenador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDiretor.resx">
+      <DependentUpon>AddDiretor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddFormador.resx">
+      <DependentUpon>AddFormador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSecretaria.resx">
+      <DependentUpon>AddSecretaria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlocarFormador.resx">
+      <DependentUpon>AlocarFormador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AlterarPassword.resx">
+      <DependentUpon>AlterarPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AtualizaMorada.resx">
+      <DependentUpon>AtualizaMorada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AtualizarContacto.resx">
+      <DependentUpon>AtualizarContacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AtualizaRegCrim.resx">
+      <DependentUpon>AtualizaRegCrim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalcularSalForm.resx">
+      <DependentUpon>CalcularSalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GerirUsers.resx">
+      <DependentUpon>GerirUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdd.resx">
+      <DependentUpon>MenuAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAdmin.resx">
+      <DependentUpon>MenuAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuAtualizaDados.resx">
+      <DependentUpon>MenuAtualizaDados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuGerir.resx">
+      <DependentUpon>MenuGerir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RemoveFuncionario.resx">
+      <DependentUpon>RemoveFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoverUser.resx">
+      <DependentUpon>RemoverUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RenovarContrato.resx">
+      <DependentUpon>RenovarContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ADM.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hide_eye.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\show_eye.PNG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
